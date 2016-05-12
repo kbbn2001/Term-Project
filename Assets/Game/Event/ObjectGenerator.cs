@@ -7,7 +7,7 @@ public class ObjectGenerator : MonoBehaviour
     private const float kDelay = 1.0F;
     private float object_delay_;
     private static int object_count = 0;
-    private static int kMaxObject = 1;
+    private static int kMaxObject = 5;
 
     // Use this for initialization
     void Start()
